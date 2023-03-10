@@ -19,7 +19,6 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 
 /**
-	* Shailendra is woring on it.
  * Controller used to showcase what happens when an exception is thrown
  *
  * @author Michael Isvy
